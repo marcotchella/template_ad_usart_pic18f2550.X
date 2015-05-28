@@ -1,0 +1,19 @@
+_OpenUSART: CODE, 32112 0 92
+__stringdata: SMALLCONST, 2056 0 20
+_main: CODE, 32460 0 308
+_BusyADC: CODE, 31656 0 6
+_ConvertADC: CODE, 31652 0 4
+__initialization: CODE, 31708 0 6
+___lwdiv: CODE, 32026 0 86
+_ReadADC: CODE, 31662 0 10
+_putsUSART: CODE, 31758 0 40
+_WriteUSART: CODE, 31672 0 16
+_putrsUSART: CODE, 31844 0 46
+___lwmod: CODE, 31956 0 70
+_ReadUSART: CODE, 31728 0 30
+_Delay1Second: CODE, 31798 0 46
+_OpenADC: CODE, 32204 0 92
+_itoa: CODE, 31890 0 66
+_SetChanADC: CODE, 31688 0 20
+_utoa: CODE, 32296 0 164
+Total: 1122
